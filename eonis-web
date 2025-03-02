@@ -1,0 +1,7 @@
+eonis-web
+│── index.html      (Página principal)
+│── style.css       (Estilos)
+│── script.js       (Funciones interactivas)
+│── /images         (Imágenes del proyecto)
+│── /docs           (Manuales y documentos de EONIS)
+│── /data           (Datos de prueba para simulaciones)
