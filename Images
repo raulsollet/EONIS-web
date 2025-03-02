@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EONIS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="logo-container">
+        <div class="logo">
+            <span class="eonis">EONIS</span>
+            <span class="tagline">Transformando el Comercio Internacional</span>
+        </div>
+    </div>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff;
+}
+
+.logo {
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.eonis {
+    color: #28a745;
+}
+
+.tagline {
+    display: block;
+    font-size: 1.2em;
+    color: #888;
+}
