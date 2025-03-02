@@ -1,0 +1,10 @@
+sample.json
+{
+    "caso": "Evaluación de sesgo en un contrato internacional",
+    "datos": {
+        "empresa": "GlobalTrade Ltd.",
+        "problema": "Discrepancia en términos de pago",
+        "solución_sesgada": "Aceptar sin revisión",
+        "solución_eonis": "Comparar con estándares de la ICC"
+    }
+}
